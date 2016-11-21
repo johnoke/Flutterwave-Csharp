@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CCF7BB9F-8486-42CD-B55D-E2E7FB59BFD5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Flutterwave</RootNamespace>
+    <AssemblyName>Flutterwave</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http.Extensions, Version=2.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=4.2.29.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.Formatting.Extension.5.2.3.0\lib\System.Net.Http.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Constants\Auth.cs" />
+    <Compile Include="Constants\Countries.cs" />
+    <Compile Include="Constants\Currencies.cs" />
+    <Compile Include="Constants\Headers.cs" />
+    <Compile Include="Constants\Verbs.cs" />
+    <Compile Include="Constants\Verification.cs" />
+    <Compile Include="Driver.cs" />
+    <Compile Include="DTOs\AccountCharge.cs" />
+    <Compile Include="DTOs\Card.cs" />
+    <Compile Include="DTOs\CardCapture.cs" />
+    <Compile Include="DTOs\ChargeCard.cs" />
+    <Compile Include="DTOs\ChargeToken.cs" />
+    <Compile Include="DTOs\Destination.cs" />
+    <Compile Include="DTOs\LinkDisbursement.cs" />
+    <Compile Include="DTOs\PaymentDetails.cs" />
+    <Compile Include="DTOs\PreAuthorizeCard.cs" />
+    <Compile Include="DTOs\ResendOTPBVN.cs" />
+    <Compile Include="DTOs\ResolveAccount.cs" />
+    <Compile Include="DTOs\SendDisbursement.cs" />
+    <Compile Include="DTOs\TokenizeCharge.cs" />
+    <Compile Include="DTOs\ValidateAccountCharge.cs" />
+    <Compile Include="DTOs\ValidateBVN.cs" />
+    <Compile Include="DTOs\ValidateCardCharge.cs" />
+    <Compile Include="DTOs\ValidateDisbursement.cs" />
+    <Compile Include="DTOs\VerifyBVN.cs" />
+    <Compile Include="Helpers\AccountHelper.cs" />
+    <Compile Include="Helpers\BankHelper.cs" />
+    <Compile Include="Helpers\BINHelper.cs" />
+    <Compile Include="Helpers\BVNHelper.cs" />
+    <Compile Include="Helpers\CardHelper.cs" />
+    <Compile Include="Helpers\DisbursementHelper.cs" />
+    <Compile Include="Operations\AccountOperation.cs" />
+    <Compile Include="Operations\BVNOperation.cs" />
+    <Compile Include="Operations\CardOperation.cs" />
+    <Compile Include="Operations\DisbursementOperation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\ApiRequest.cs" />
+    <Compile Include="Utilities\ApiResponse.cs" />
+    <Compile Include="Utilities\Encrypt.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

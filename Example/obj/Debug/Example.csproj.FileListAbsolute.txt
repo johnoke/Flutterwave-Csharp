@@ -1,0 +1,12 @@
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Example.exe.config
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Example.exe
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Example.pdb
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Flutterwave.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Newtonsoft.Json.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Flutterwave.pdb
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Debug\Newtonsoft.Json.xml
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.csproj.Example.exe.config
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.exe
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.pdb

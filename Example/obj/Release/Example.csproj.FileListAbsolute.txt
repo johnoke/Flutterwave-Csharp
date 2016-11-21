@@ -1,0 +1,6 @@
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Release\Example.exe.config
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Release\Example.exe
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\bin\Release\Example.pdb
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Release\Example.exe
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Release\Example.pdb

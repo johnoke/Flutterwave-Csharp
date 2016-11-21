@@ -1,0 +1,9 @@
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Debug\Flutterwave.csprojResolveAssemblyReference.cache
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\Flutterwave.dll.config
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\Flutterwave.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\Flutterwave.pdb
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Debug\Flutterwave.dll
+c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Debug\Flutterwave.pdb
