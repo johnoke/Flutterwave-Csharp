@@ -14,15 +14,15 @@ namespace Flutterwave.Helpers
         {
             resources.Add("staging", new AccessAccountOperation
             {
-                Initiate = "http://staging1flutterwave.co:8080/pwc/rest/pay/resolveaccount",
-                Validate = "http://staging1flutterwave.co:8080/pwc/rest/account/pay",
-                Charge = "http://staging1flutterwave.co:8080/pwc/rest/account/pay/validate"
+                Initiate = "http://staging1flutterwave.co:8080/pwc/rest/recurrent/account/",
+                Validate = "http://staging1flutterwave.co:8080/pwc/rest/recurrent/account/validate/",
+                Charge = "http://staging1flutterwave.co:8080/pwc/rest/recurrent/account/charge/"
             });
             resources.Add("production", new AccessAccountOperation
             {
-                Initiate = "https://prod1flutterwave.co:8181/pwc/rest/pay/resolveaccount",
-                Validate = "https://prod1flutterwave.co:8181/pwc/rest/account/pay",
-                Charge = "https://prod1flutterwave.co:8181/pwc/rest/account/pay/validate"
+                Initiate = "https://prod1flutterwave.co:8181/pwc/rest/recurrent/account/",
+                Validate = "https://prod1flutterwave.co:8181/pwc/rest/recurrent/account/validate/",
+                Charge = "https://prod1flutterwave.co:8181/pwc/rest/recurrent/account/charge/"
             });
         }
         public async Task<string> Initiate(string accountNumber, Driver driver)

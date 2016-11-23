@@ -4,3 +4,15 @@ c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Release\Example.exe
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Release\Example.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Example.exe.config
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\obj\Release\Example.exe
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\obj\Release\Example.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Example.exe
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Example.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Flutterwave.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Flutterwave.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\obj\Release\Example.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\obj\Release\Example.csproj.Example.exe.config
