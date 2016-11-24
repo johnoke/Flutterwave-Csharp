@@ -13,7 +13,7 @@
             this.IsSuccessfulResponse = false;
             this.RequiresValidation = false;
             this.ResponseCode = "00";
-        } 
+        }   
         
     }
 }
