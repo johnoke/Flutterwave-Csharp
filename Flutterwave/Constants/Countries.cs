@@ -1,6 +1,6 @@
 ﻿namespace Flutterwave.Constants
 {
-    class Countries
+    public class Countries
     {
         public const string NIGERIA = "NG";
         public const string GHANA = "GH";

@@ -30,6 +30,7 @@ namespace Flutterwave.Utilities
                 }
             }
             HttpResponseMessage response = null;
+            client.Timeout = TimeSpan.FromMinutes(5);
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             if (method.Equals(Verbs.POST))
             {
