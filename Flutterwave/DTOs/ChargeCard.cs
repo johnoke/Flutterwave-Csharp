@@ -20,6 +20,7 @@ namespace Flutterwave.DTOs
             this.expirymonth = Encrypt.TripleDESEncrypt(card.ExpiryMonth, apikey);
             this.pin = String.IsNullOrEmpty(card.PIN) ? "" : Encrypt.TripleDESEncrypt(card.PIN, apikey);
             this.bvn = String.IsNullOrEmpty(card.BVN) ? "" : Encrypt.TripleDESEncrypt(card.BVN, apikey);
+            this.merchantid = merchantid;
         }
         public string amount { get; set; }
         public string custid { get; set; }

@@ -8,7 +8,7 @@ using System.Net.Http.Headers;
 using System.Net.Http.Formatting;
 namespace Flutterwave.Utilities
 {
-    class ApiRequest
+    public class ApiRequest
     {
         public object Data { get; set; }
         public string Url { get; set; }
@@ -21,7 +21,7 @@ namespace Flutterwave.Utilities
             var client = new HttpClient();
             ServicePointManager.Expect100Continue = true;
             ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3 | SecurityProtocolType.Tls12 | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls;
-            client.BaseAddress = new Uri(this.Url);
+            //client.BaseAddress = new Uri(this.Url);
             if (headers != null)
             {
                 foreach (var header in headers)
@@ -34,7 +34,14 @@ namespace Flutterwave.Utilities
             client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             if (method.Equals(Verbs.POST))
             {
-                response = await client.PostAsJsonAsync(this.Url, data);
+                if (data != null)
+                {
+                    response = await client.PostAsJsonAsync(this.Url, data);
+                }
+                else
+                {
+                    response = await client.PostAsJsonAsync(this.Url, new { });
+                }
             }
             else if(method.Equals(Verbs.GET))
             {

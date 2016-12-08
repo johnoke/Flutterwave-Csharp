@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flutterwave", "Flutterwave\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{8A44921B-5F79-493C-9BB1-F88FA7803E57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flutterwave.Moneywave", "Flutterwave.Moneywave\Flutterwave.Moneywave.csproj", "{17E071E5-B797-4F2B-9FDB-AAC1AF3ACAAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8A44921B-5F79-493C-9BB1-F88FA7803E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A44921B-5F79-493C-9BB1-F88FA7803E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A44921B-5F79-493C-9BB1-F88FA7803E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17E071E5-B797-4F2B-9FDB-AAC1AF3ACAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E071E5-B797-4F2B-9FDB-AAC1AF3ACAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E071E5-B797-4F2B-9FDB-AAC1AF3ACAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E071E5-B797-4F2B-9FDB-AAC1AF3ACAAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

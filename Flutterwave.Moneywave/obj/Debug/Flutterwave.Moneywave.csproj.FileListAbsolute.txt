@@ -1,0 +1,8 @@
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\obj\Debug\Flutterwave.Moneywave.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Flutterwave.Moneywave.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Flutterwave.Moneywave.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Flutterwave.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Flutterwave.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\obj\Debug\Flutterwave.Moneywave.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\obj\Debug\Flutterwave.Moneywave.pdb

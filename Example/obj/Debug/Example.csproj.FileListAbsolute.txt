@@ -22,3 +22,5 @@ C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Newtonsoft.Json
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.pdb
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.Moneywave.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.Moneywave.pdb
