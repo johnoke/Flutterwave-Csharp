@@ -56,8 +56,9 @@
     <Compile Include="Constants\Auth.cs" />
     <Compile Include="Constants\Countries.cs" />
     <Compile Include="Constants\Currencies.cs" />
-    <Compile Include="Constants\Headers.cs" />
-    <Compile Include="Constants\Verbs.cs" />
+    <Compile Include="Constants\Environments.cs" />
+    <Compile Include="Utilities\Api\Constants\Headers.cs" />
+    <Compile Include="Utilities\Api\Constants\Verbs.cs" />
     <Compile Include="Constants\Verification.cs" />
     <Compile Include="Driver.cs" />
     <Compile Include="DTOs\AccountCharge.cs" />
@@ -89,8 +90,8 @@
     <Compile Include="Operations\CardOperation.cs" />
     <Compile Include="Operations\DisbursementOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utilities\ApiRequest.cs" />
-    <Compile Include="Utilities\ApiResponse.cs" />
+    <Compile Include="Utilities\Api\Request.cs" />
+    <Compile Include="Utilities\Api\Response.cs" />
     <Compile Include="Utilities\Encrypt.cs" />
   </ItemGroup>
   <ItemGroup>

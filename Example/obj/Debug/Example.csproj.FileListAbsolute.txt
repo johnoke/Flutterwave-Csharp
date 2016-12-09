@@ -10,3 +10,15 @@ c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.csproj.Example.exe.config
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.exe
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Example\obj\Debug\Example.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\obj\Debug\Example.csproj.Example.exe.config
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\obj\Debug\Example.exe
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\obj\Debug\Example.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Example.exe.config
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Example.exe
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Example.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Flutterwave.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Flutterwave.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Example\bin\Debug\Newtonsoft.Json.xml

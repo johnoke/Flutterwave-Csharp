@@ -7,3 +7,12 @@ c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Debug\System.Net.Http.Primitives.dll
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Debug\Flutterwave.dll
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Debug\Flutterwave.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\bin\Debug\Flutterwave.dll.config
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\bin\Debug\Flutterwave.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\bin\Debug\Flutterwave.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\obj\Debug\Flutterwave.csprojResolveAssemblyReference.cache
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\obj\Debug\Flutterwave.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\Flutterwave-Csharp\Flutterwave\obj\Debug\Flutterwave.pdb
