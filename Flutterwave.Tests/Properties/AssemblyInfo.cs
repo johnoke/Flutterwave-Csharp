@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Flutterwave")]
+[assembly: AssemblyTitle("Flutterwave.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Flutterwave")]
+[assembly: AssemblyProduct("Flutterwave.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ccf7bb9f-8486-42cd-b55d-e2e7fb59bfd5")]
+[assembly: Guid("4db7acbe-ea2b-41cd-a937-f21b07e4c9ae")]
 
 // Version information for an assembly consists of the following four values:
 //
