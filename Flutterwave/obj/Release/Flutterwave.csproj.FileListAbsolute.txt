@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\Flutterwave.dll.config
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\Flutterwave.dll
 c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\Flutterwave.pdb
@@ -16,13 +15,3 @@ C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\bin\Release\System.Ne
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Release\Flutterwave.csprojResolveAssemblyReference.cache
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Release\Flutterwave.dll
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Release\Flutterwave.pdb
-=======
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\Flutterwave.dll.config
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\Flutterwave.dll
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\Flutterwave.pdb
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\System.Net.Http.Extensions.dll
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\System.Net.Http.Formatting.dll
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\bin\Release\System.Net.Http.Primitives.dll
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Release\Flutterwave.dll
-c:\users\suregifts-devpc\documents\visual studio 2015\Projects\Flutterwave-Sharp\Flutterwave\obj\Release\Flutterwave.pdb
->>>>>>> 50ce768f59cf5cb025831deaf220bf221998f2ae

@@ -14,7 +14,7 @@ namespace Flutterwave.Moneywave.Assistants
         public VerificationAssistant()
         {
             resources.Add("staging", "https://moneywave.herokuapp.com/v1/merchant/verify");
-            resources.Add("production", "http://prod1flutterwave.co:8181/pwc/rest/fw/banks/");
+            resources.Add("production", "https://live.moneywaveapi.co/v1/merchant/verify");
         }
         public async Task<string> Generate(MoneyDriver driver)
         {

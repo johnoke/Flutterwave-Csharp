@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Assistants\AccountAssistant.cs" />
     <Compile Include="Assistants\VerificationAssistant.cs" />
+    <Compile Include="OperationObjects\AccountOperation.cs" />
     <Compile Include="CommunicationObjects\VerificationTokenResponse.cs" />
     <Compile Include="MoneyDriver.cs" />
     <Compile Include="Assistants\BankAssistant.cs" />
