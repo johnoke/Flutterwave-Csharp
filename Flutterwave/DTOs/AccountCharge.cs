@@ -1,9 +1,10 @@
-﻿using Flutterwave.Utilities;
+﻿using Flutterwave.Constants;
+using Flutterwave.Utilities;
 namespace Flutterwave.DTOs
 {
     public class AccountCharge
     {
-        public AccountCharge(PaymentDetails paymentDetails, string accountNumber, string bankCode, string passCode, string reference, string merchantId, string apiKey)
+        public AccountCharge(PaymentDetails paymentDetails, string accountNumber, string bankCode, string passCode, string reference, string merchantId, string apiKey, string country = Countries.NIGERIA)
         {
             this.narration = Encrypt.TripleDESEncrypt(paymentDetails.Narration, apiKey);
             this.accountnumber = Encrypt.TripleDESEncrypt(accountNumber, apiKey);
@@ -15,11 +16,13 @@ namespace Flutterwave.DTOs
             this.lastname = Encrypt.TripleDESEncrypt(paymentDetails.LastName, apiKey);
             this.email = Encrypt.TripleDESEncrypt(paymentDetails.Email, apiKey);
             this.transactionreference = Encrypt.TripleDESEncrypt(reference, apiKey);
+            this.country = Encrypt.TripleDESEncrypt(country, apiKey);
             this.merchantid = merchantId;
         }
         public string narration { get; set; }
         public string accountnumber { get; set; }
         public string bankcode { get; set; }
+        public string country { get; set; }
         public string passcode { get; set; }
         public string amount { get; set; }
         public string currency { get; set; }

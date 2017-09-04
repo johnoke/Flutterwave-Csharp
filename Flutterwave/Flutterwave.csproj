@@ -72,6 +72,7 @@
     <Compile Include="DTOs\LinkDisbursement.cs" />
     <Compile Include="DTOs\PaymentDetails.cs" />
     <Compile Include="DTOs\PreAuthorizeCard.cs" />
+    <Compile Include="DTOs\RecurrentCardCharge.cs" />
     <Compile Include="DTOs\ResendOTPBVN.cs" />
     <Compile Include="DTOs\ResolveAccount.cs" />
     <Compile Include="DTOs\SendDisbursement.cs" />

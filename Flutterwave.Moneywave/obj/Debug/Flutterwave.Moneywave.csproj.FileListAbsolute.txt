@@ -6,3 +6,6 @@ C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\S
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Flutterwave.pdb
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\obj\Debug\Flutterwave.Moneywave.dll
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\obj\Debug\Flutterwave.Moneywave.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\bin\Debug\Flutterwave.dll.config
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave.Moneywave\obj\Debug\Flutterwave.Moneywave.csproj.CoreCompileInputs.cache

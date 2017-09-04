@@ -45,11 +45,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assistants\AccountAssistant.cs" />
+    <Compile Include="Assistants\CardAssistant.cs" />
     <Compile Include="Assistants\VerificationAssistant.cs" />
+    <Compile Include="CommunicationObjects\ChargeCardRequest.cs" />
+    <Compile Include="CommunicationObjects\ChargeCardResponse.cs" />
+    <Compile Include="CommunicationObjects\ChargeCardToWalletRequest.cs" />
+    <Compile Include="CommunicationObjects\TokenizeCardRequest.cs" />
+    <Compile Include="CommunicationObjects\TransactionStatusResponse.cs" />
+    <Compile Include="CommunicationObjects\ValidateChargeCardRequest.cs" />
     <Compile Include="OperationObjects\AccountOperation.cs" />
     <Compile Include="CommunicationObjects\VerificationTokenResponse.cs" />
     <Compile Include="MoneyDriver.cs" />
     <Compile Include="Assistants\BankAssistant.cs" />
+    <Compile Include="OperationObjects\CardOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

@@ -1,4 +1,6 @@
 ﻿using Flutterwave.Utilities;
+using System;
+
 namespace Flutterwave.DTOs
 {
     public class TokenizeCharge
@@ -10,7 +12,7 @@ namespace Flutterwave.DTOs
             this.expirymonth = Encrypt.TripleDESEncrypt(card.ExpiryMonth, apikey);
             this.expiryyear = Encrypt.TripleDESEncrypt(card.ExpiryYear, apikey);
             this.authmodel = Encrypt.TripleDESEncrypt(authmodel, apikey);
-            this.bvn = Encrypt.TripleDESEncrypt(bvn, apikey);
+            this.bvn = String.IsNullOrEmpty(bvn) ? "" : Encrypt.TripleDESEncrypt(bvn, apikey);
             this.merchantid = merchantid;
         }
         public string cardno { get; set; }

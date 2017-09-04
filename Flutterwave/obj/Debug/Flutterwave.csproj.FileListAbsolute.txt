@@ -16,3 +16,5 @@ C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\bin\Debug\System.Net.
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Debug\Flutterwave.csprojResolveAssemblyReference.cache
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Debug\Flutterwave.dll
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Debug\Flutterwave.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Flutterwave\obj\Debug\Flutterwave.csproj.CoreCompileInputs.cache

@@ -47,6 +47,13 @@ namespace Flutterwave.Helpers
             var response = await new ApiRequest(resource).MakeRequest(data: chargeCard, method: Verbs.POST);
             return response;
         }
+        public async Task<string> RecurringCharge(string amount, string custId, string currency, string country, string chargeToken, string narration, Driver driver, string authmodel = null, string pin = null)
+        {
+            string resource = this.resources[driver.Env].Charge;
+            RecurrentCardCharge recurrentCharge = new RecurrentCardCharge(amount, custId, currency, narration, chargeToken, country, driver.MerchantKey, driver.ApiKey, authmodel, pin);
+            var response = await new ApiRequest(resource).MakeRequest(data: recurrentCharge, method: Verbs.POST);
+            return response;
+        }
         public async Task<string> Validate(string reference, string otp, string cardType, Driver driver)
         {
             string resource = this.resources[driver.Env].Validate;

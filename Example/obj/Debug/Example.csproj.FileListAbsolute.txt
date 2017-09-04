@@ -24,3 +24,5 @@ C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.pdb
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Newtonsoft.Json.xml
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.Moneywave.dll
 C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.Moneywave.pdb
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\bin\Debug\Flutterwave.dll.config
+C:\Users\johno\Documents\WorkSpace\Flutterwave\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
